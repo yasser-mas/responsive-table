@@ -27,3 +27,9 @@ balanceSize();
 
 
 [ Try the DEMO ](http://htmlpreview.github.io/?https://github.com/yasser-mas/responsive-table/blob/responsive-table/index.html)
+
+
+
+
+
+![alt text](https://github.com/yasser-mas/responsive-table/blob/responsive-table/css/res.png "Screenshot")
