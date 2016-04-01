@@ -10,15 +10,15 @@ responsive table by using jQuery and Bootstrap
 2. Link your website with js.js file 
 3. on page load function add the below : 
 
-⋅⋅* add one of the below options : 
+1. add one of the below options : 
 
-⋅⋅1. responsiveTable ('table'); to select the table by html tag 
+* responsiveTable ('table'); to select the table by html tag 
 
-⋅⋅2. responsiveTable ('.table-class'); or if you want to select the table by table class 
+* responsiveTable ('.table-class'); or if you want to select the table by table class 
 
-⋅⋅3. responsiveTable ('#table-id'); or select the table with table id 
+* responsiveTable ('#table-id'); or select the table with table id 
 
-⋅⋅*  add the below function to balance each row size  
+2.  add the below function to balance each row size  
 
 balanceSize();
 
