@@ -10,7 +10,7 @@ responsive table by using jQuery and Bootstrap
 2. Link your website with js.js file 
 3. on page load function add the below : 
 
-⋅⋅1. add one of the below options : 
+1- add one of the below options : 
 
 * responsiveTable ('table'); to select the table by html tag 
 
@@ -18,7 +18,7 @@ responsive table by using jQuery and Bootstrap
 
 * responsiveTable ('#table-id'); or select the table with table id 
 
-⋅..2. add the below function to balance each row size  
+2- add the below function to balance each row size  
 
 balanceSize();
 
